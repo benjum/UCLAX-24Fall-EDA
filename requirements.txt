@@ -10,3 +10,7 @@ jupyterlab
 vega_datasets
 scipy
 scikit-learn
+geopandas
+contextily
+folium
+mapclassify
